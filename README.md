@@ -28,7 +28,7 @@
 
 ### Get String Session
 
-[![GenerateString](https://telegram.me/StringFatherRobot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://telegram.me/StringFatherRobot)
 
 
 
